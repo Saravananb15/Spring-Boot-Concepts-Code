@@ -1,4 +1,4 @@
-package com.practice.FactoryIOCDI;
+package com.practice.ManualIOCDIUsingFactory;
 
 public class BMWcar {
 	public static void main(String[] args) {

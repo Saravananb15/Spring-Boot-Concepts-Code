@@ -1,4 +1,4 @@
-package com.practice.FactoryIOCDI;
+package com.practice.ManualIOCDIUsingFactory;
 
 public class SpeakersFactory {
 	public Speakers getSpeaker(String name) {
